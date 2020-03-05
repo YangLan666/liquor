@@ -1,0 +1,21 @@
+{
+  "name": "course33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.7.0",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
