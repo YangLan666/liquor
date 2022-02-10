@@ -12,7 +12,7 @@
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "gulp-connect": "^5.7.0",
